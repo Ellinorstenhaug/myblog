@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBlog", "MyBlog\MyBlog.csproj", "{B815D537-10FA-43FA-8507-CD4D1F513685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBlog.Data", "MyBlog.Data\MyBlog.Data.csproj", "{98257F5E-5D0A-4C27-B359-B8482B7D9C05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{B815D537-10FA-43FA-8507-CD4D1F513685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B815D537-10FA-43FA-8507-CD4D1F513685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B815D537-10FA-43FA-8507-CD4D1F513685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98257F5E-5D0A-4C27-B359-B8482B7D9C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98257F5E-5D0A-4C27-B359-B8482B7D9C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98257F5E-5D0A-4C27-B359-B8482B7D9C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98257F5E-5D0A-4C27-B359-B8482B7D9C05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
