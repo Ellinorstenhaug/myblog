@@ -206,3 +206,13 @@ textarea {
 .validation-summary-valid {
     display: none;
 }
+
+/*Smart phones start*/
+@media only screen and (max-width: 600px) {
+   .img-responsive{
+       height:auto;
+   }
+}
+
+/*Smart phones end*/
+
