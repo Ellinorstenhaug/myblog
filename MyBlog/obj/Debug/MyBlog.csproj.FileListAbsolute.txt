@@ -27,3 +27,34 @@ c:\users\xxalexanderhe\documents\visual studio 2012\Projects\MyBlog\MyBlog\bin\S
 c:\users\xxalexanderhe\documents\visual studio 2012\Projects\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
 c:\users\xxalexanderhe\documents\visual studio 2012\Projects\MyBlog\MyBlog\obj\Debug\MyBlog.dll
 c:\users\xxalexanderhe\documents\visual studio 2012\Projects\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Projects\ElkyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Projects\ElkyBlog\MyBlog\bin\MyBlog.dll
+C:\Projects\ElkyBlog\MyBlog\bin\MyBlog.pdb
+C:\Projects\ElkyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Projects\ElkyBlog\MyBlog\bin\EntityFramework.dll
+C:\Projects\ElkyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\ElkyBlog\MyBlog\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projects\ElkyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Net.Http.Formatting.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Http.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Http.WebHost.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Providers.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Projects\ElkyBlog\MyBlog\bin\WebGrease.dll
+C:\Projects\ElkyBlog\MyBlog\bin\EntityFramework.xml
+C:\Projects\ElkyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Net.Http.Formatting.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Http.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Http.WebHost.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\ElkyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Projects\ElkyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Projects\ElkyBlog\MyBlog\obj\Debug\MyBlog.pdb
