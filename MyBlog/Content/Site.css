@@ -2,10 +2,7 @@
     text-decoration: none;
 }
 
-a:hover {
-        color: #c6c6c6;
-    }
-    
+
 body {
     font-size: .85em;
     font-family: Arial, Verdana, Helvetica, Sans-Serif;
@@ -27,10 +24,49 @@ img {
     max-height: 100%;
 }
 
-
-
 /* Styles for basic forms
 -----------------------------------------------------------*/
+
+.article {
+    text-align: center;
+    margin:100px;
+
+}
+
+.article-archive {
+    text-align:right;
+    text-transform:uppercase;
+    letter-spacing:1.5px;
+    color:#b3b3b3;
+    font-size:0.7em;
+
+}
+
+.article-link {
+   color:#b3b3b3;
+}
+
+.article-link:hover {
+   color:#b3b3b3;
+   text-decoration:underline;
+}
+
+.comments {
+    text-transform:uppercase;
+    font-size:0.8em;
+    letter-spacing:1px;
+    font-weight:700;
+    text-align:right;
+
+}
+
+.date-published {
+    color:#b3b3b3;
+    text-transform:uppercase;
+    font-size:0.8em;
+    letter-spacing:4px;
+}
+
 fieldset {
     border: 1px solid #ddd;
     padding: 0 1.4em 1.4em 1.4em;
@@ -73,7 +109,7 @@ textarea {
 .icon-img {
     z-index: 30;
     position: relative;
-    padding-left:20px;
+    padding-left: 20px;
 }
 
 .input-validation-error {
@@ -88,41 +124,61 @@ textarea {
 
 .menu-item {
     text-transform: uppercase;
-    font-weight:bold;
+    font-weight: bold;
     color: white;
     font-size: 11px;
-    line-height: 3.5em;
-    padding:20px 0px 0px 20px;
-    letter-spacing:2.5px;
+    line-height: 3.8em;
+    padding: 20px 0px 0px 20px;
+    letter-spacing: 2.5px;
 }
 
+
+    .menu-item:hover {
+        color: #c6c6c6;
+    }
+
+
+
 .scroll-down {
-    margin:0 auto;
+    margin: 0 auto;
     text-align: center;
     z-index: 14;
-    bottom:10%;
-    position:absolute;
-    left:50%;
-    }
+    bottom: 10%;
+    position: absolute;
+    left: 50%;
+}
 
 .scroll-down-btn {
     color: #ffffff;
-    position:absolute;
-    z-index:10;
-    margin:10px;
-    width:100px;
+    position: absolute;
+    z-index: 10;
+    margin: 10px;
+    width: 100px;
 }
 
 .scroll-down-icon {
-    height:35px;
-    position:absolute;
-    margin:10px;
+    height: 35px;
+    position: absolute;
+    margin: 10px;
 }
 
 
+.title {
+    font-size: 2.8em;
+    color: black;
+    text-transform:uppercase;
+    font-family:"Didot", Times, serif;
+    font-weight:400;
+    line-height:1.2em;
+}
+
+.title:hover {
+    text-decoration:underline;
+    }
+
 .top-nav {
     background-color: black;
-    height: 40px;
+    height: 43px;
     width: 100%;
     position: fixed;
     top: 0;
@@ -130,17 +186,18 @@ textarea {
 }
 
 .top-nav-left {
-    width:auto;
-    float:left;
+    width: auto;
+    float: left;
 }
 
 
 .top-nav-right {
     height: 17px;
-    top:0;
-    float:right;
-    padding:10px;
+    top: 0;
+    float: right;
+    padding: 10px;
 }
+
 .validation-summary-errors {
     font-weight: bold;
     color: #f00;
