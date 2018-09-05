@@ -52,7 +52,7 @@
   <ItemGroup>
     <Compile Include="DbModels\DbLayout.cs" />
     <Compile Include="DbModels\DbUser.cs" />
-    <Compile Include="MyBlogDb.cs" />
+    <Compile Include="ApplicationDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

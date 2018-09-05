@@ -1,0 +1,10 @@
+﻿@model MyBlog.Models.HomeModel
+
+<a href="#" class="title"><span>Senaste blogginläggen:</span></a>
+@foreach (var blog in Model.BlogPosts)
+{
+    <p class="date-published">@blog.Created </p>
+        <p><span>@blog.Description</span></p>
+        <p class="comments">2 comments</p>
+            <p class="article-archive"> posted in: @blog.PostedInCategory   <a href="#" class="article-link">ellinors</a></p>
+}

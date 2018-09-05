@@ -1,0 +1,15 @@
+﻿@model MyBlog.ViewModels.BaseViewModel
+<div class="top-nav-left">
+    @foreach (var page in Model.MenuItems)
+    {
+        <a href="@Url.Action("GetPage", "Home", new { @id = page.Id })" class="menu-item">@page.Name</a>
+    }
+</div>
+<div class="top-nav-right">
+    @foreach (var item in Model.SocialItems)
+            {
+        <a href="@item.Link" class="icon-img">
+            <img src="@item.Name" />
+        </a>
+    }
+</div>

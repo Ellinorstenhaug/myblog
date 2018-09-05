@@ -19,6 +19,11 @@ header, footer, nav, section {
     display: block;
 }
 
+.img-overlay {
+    height: 600px;
+    width: 100%;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;
@@ -29,42 +34,39 @@ img {
 
 .article {
     text-align: center;
-    margin:100px;
-
+    margin: 100px;
 }
 
 .article-archive {
-    text-align:right;
-    text-transform:uppercase;
-    letter-spacing:1.5px;
-    color:#b3b3b3;
-    font-size:0.7em;
-
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #b3b3b3;
+    font-size: 0.7em;
 }
 
 .article-link {
-   color:#b3b3b3;
+    color: #b3b3b3;
 }
 
-.article-link:hover {
-   color:#b3b3b3;
-   text-decoration:underline;
-}
+    .article-link:hover {
+        color: #b3b3b3;
+        text-decoration: underline;
+    }
 
 .comments {
-    text-transform:uppercase;
-    font-size:0.8em;
-    letter-spacing:1px;
-    font-weight:700;
-    text-align:right;
-
+    text-transform: uppercase;
+    font-size: 0.8em;
+    letter-spacing: 1px;
+    font-weight: 700;
+    text-align: right;
 }
 
 .date-published {
-    color:#b3b3b3;
-    text-transform:uppercase;
-    font-size:0.8em;
-    letter-spacing:4px;
+    color: #b3b3b3;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    letter-spacing: 4px;
 }
 
 fieldset {
@@ -166,14 +168,14 @@ textarea {
 .title {
     font-size: 2.8em;
     color: black;
-    text-transform:uppercase;
-    font-family:"Didot", Times, serif;
-    font-weight:400;
-    line-height:1.2em;
+    text-transform: uppercase;
+    font-family: "Didot", Times, serif;
+    font-weight: 400;
+    line-height: 1.2em;
 }
 
-.title:hover {
-    text-decoration:underline;
+    .title:hover {
+        text-decoration: underline;
     }
 
 .top-nav {
@@ -209,9 +211,9 @@ textarea {
 
 /*Smart phones start*/
 @media only screen and (max-width: 600px) {
-   .img-responsive{
-       height:auto;
-   }
+    .img-responsive {
+        height: auto;
+    }
 }
 
 /*Smart phones end*/
